@@ -158,11 +158,4 @@ Hello World
 - **JSON序列化**: Gson
 - **文件操作**: Commons IO
 
-## 开发计划
-
-参考 `l:\SoftwareDesign\Lab1Txt\DevelopingPlans.md` 查看详细的开发计划。
-
-## 许可证
-
-本项目仅用于学习和教学目的。
 
